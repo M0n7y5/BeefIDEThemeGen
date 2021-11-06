@@ -1,0 +1,12 @@
+﻿SharpeningSize: 1
+SharpeningSigma: 0.6
+ApplyFilterOn:
+- Checkbox
+- CheckboxDown
+- CheckboxOver
+- Property
+- Project
+- ProjectFolder
+- Search
+- Type_Class
+- Window
