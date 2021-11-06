@@ -1,12 +1,24 @@
-﻿SharpeningSize: 1
-SharpeningSigma: 0.6
+﻿SharpeningSize: 2
+SharpeningSigma: 1.1
 ApplyFilterOn:
 - Checkbox
 - CheckboxDown
 - CheckboxOver
+- Check
 - Property
-- Project
-- ProjectFolder
-- Search
 - Type_Class
-- Window
+- Interface
+- LockIcon
+- RedDotUnbound
+- RedDot
+- Field
+- MoreInfo
+- Workspace
+- Method
+- IconValue
+- IconPointer
+# - IconPayloadEnum
+- RedDotEx
+- RedDotExDisabled
+- RedDotExUnbound
+- RedDotRunToCursor
